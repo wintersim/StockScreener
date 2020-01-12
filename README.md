@@ -7,10 +7,10 @@ Very simple JavaFX desktop widget that allows you to monitor charts
 ### Window Controls
 
 After the application is launched a window will appear in the top right corner of the screen.
-The window can be moved with the arrow keys
-Hold ```ALT``` and press the up or down arrow key to resize the window.
 
-Exit the application by pressing ```ESC```.
+* The window can be moved with the arrow keys.
+* Hold ```ALT``` and press the up or down arrow key to resize the window.
+* Exit the application by pressing ```ESC```.
 
 ### Chart Controls
 
